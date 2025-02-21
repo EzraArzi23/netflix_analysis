@@ -31,5 +31,5 @@ The dataset was taken from kaggle:
 
 ------
 
-** ✏️ Note**
+✏️ **Note**
 This is my first attempt creating a Power BI dashboard. I'm using this project to practice and build my portofolio
