@@ -9,14 +9,20 @@ I used a **netflix_titles dataset from Kaggle** to explore and visualize various
 
 ## 🔍 What I Explored
 ✅ Percentage of Type
+
 ✅ Content Added Over Time
+
 ✅ Top Genre
+
 ✅ Top Director
+
 ✅ Duration Distribution
+
 ✅ Country Distribution
 
 ## ⚙️ Tools Used
 🖥️ **Power BI** &#8594; Dashboard creation
+
 📊 **Kaggle** &#8594; Dataset source
 
 ## 📌 Dataset Source
